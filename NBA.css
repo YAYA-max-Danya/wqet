@@ -1,0 +1,20 @@
+html {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sport.ru%2Fbasketball%2Fnba%2Fpage7%2F&psig=AOvVaw2_uLifS5KSVQ4ZIbNUPoGA&ust=1733046319079000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD50-jig4oDFQAAAAAdAAAAABAE);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1{
+    margin-left: 40px;
+    margin-left: 40px;
+  }
+  h1{
+    color:black
+  }
+body{
+    text-align: center;
+}
